@@ -2,7 +2,7 @@
 
 This project features an **interactive Power BI dashboard** designed to analyze Blinkit’s sales performance and customer trends in the Quick Commerce domain.
 
-The dashboard converts raw grocery sales data into **clear, actionable insights** and is built as an **independent portfolio project**.
+The dashboard converts raw grocery sales data into **clear, actionable insights**.
 
 ---
 
